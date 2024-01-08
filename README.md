@@ -1,12 +1,14 @@
-# Lena programming language
+# Lina programming language
 
 ## Main information
 
 * Interpreted programming language
 
-* Lightweight Execution and Native Adaptability (LENA)
+* Lineal Integrated Native Assembler
 
 * Syntax = Python + Rust + C
 
-* It is a related to the Lina programming language [https://github.com/robotsvision/lina-lang](URL)
+* Logic = C + Rust + C# + Assembler
+
+* It is a related to the Lena programming language [https://github.com/robotsvision/lena-lang](URL)
 
