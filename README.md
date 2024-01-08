@@ -2,7 +2,7 @@
 
 ## Main information
 
-* Interpreted programming language
+* Directly compiled programming language
 
 * Lineal Integrated Native Assembler
 
