@@ -1,4 +1,4 @@
-# Lina programming language
+# Lina programming language (archive)
 
 ## Main information
 
